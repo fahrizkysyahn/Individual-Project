@@ -1,0 +1,36 @@
+{
+  "name": "individual-project",
+  "version": "1.0.0",
+  "description": "Dompet Digital",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahrizkysyahn/Individual-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fahrizkysyahn/Individual-Project/issues"
+  },
+  "homepage": "https://github.com/fahrizkysyahn/Individual-Project#readme",
+  "dependencies": {
+    "axios": "^1.13.6",
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "passport": "^0.7.0",
+    "passport-google-oauth20": "^2.0.0",
+    "pg": "^8.20.0",
+    "sequelize": "^6.37.8"
+  },
+  "devDependencies": {
+    "dotenv": "^17.3.1",
+    "sequelize-cli": "^6.6.5"
+  }
+}
